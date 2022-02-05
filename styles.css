@@ -1,0 +1,66 @@
+.card-container {
+    text-align: center;
+}
+
+.card-body {
+    height: 500px;
+    width: 35%;
+    margin: 20px auto;
+    border: 1px solid rgb(172, 170, 170);
+    border-radius: 5px;
+}
+
+.card-content {
+    padding-left: 20%;
+}
+
+.login-heading {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.input-align {
+    width: 80%;
+}
+
+.remember {
+    margin-left: 5px;
+}
+
+.login_btn {
+    background-color: green;
+    color: aliceblue;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.login_btn:hover {
+    background-color: aquamarine;
+    color: black;
+}
+
+.footList {
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+    padding-left: 0px;
+}
+
+.img-google-tag {
+    width: 30px;
+    margin-bottom: 5px;
+}
+
+.img-apple-tag {
+    width: 40px;
+    margin-bottom: 5px;
+}
+
+.footList li a {
+    padding: 5px;
+}
+
+.continue-with-tag {
+    color: gray;
+    font-size: 1rem;
+}
